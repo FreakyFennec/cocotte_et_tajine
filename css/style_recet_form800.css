@@ -1,0 +1,25 @@
+/* formulaire bdd recettes*/
+.titre_page_form_bdd_recet
+{
+	min-width: 800px;
+	font-size: 1.8em;
+	text-align: center;
+	margin: 0px 0px 20px 0px;
+	border: 1px solid black;
+}
+.zone_form_bdd_recet
+{
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+	border: 1px solid black;
+}
+.zone_tab_du_champ
+{
+    text-align: left;/**/
+    margin: auto;
+    border: 1px solid black;
+}
+.nom_du_champ
+{
+	text-align: right;
+}

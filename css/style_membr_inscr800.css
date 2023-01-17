@@ -1,0 +1,20 @@
+/* formulaire incription membres*/
+.titre_page_inscr
+{
+	min-width: 800px;
+	font-size: 1.8em;
+	text-align: center;
+	margin: 0px 0px 20px 0px;
+	border: 1px solid black;
+}
+.zone_form_inscr
+{
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+	border: 1px solid black;
+}
+.nom_des_champ_ins
+{
+    text-align: right;
+    margin: auto;
+}

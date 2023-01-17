@@ -1,0 +1,103 @@
+/* Par pays*/
+.zone_recet_pays
+{
+    min-width: 800px;/**/
+    margin: 20px auto 10px;
+    padding:  0px 0px  0px  0px;
+    /*border: 1px solid black;/**/
+}
+
+.zone_nom_origine_pays
+{   
+    min-width: 800px;/**/
+    margin: 0px auto 0px;
+    border: 1px solid black;
+}
+
+.elem_nom_recet_pays
+{
+    display: inline-block;
+    font-size: 1.2em;
+    margin: 0px 10px  0px 0px;
+    padding: 0px 0px  0px 0px;
+    /*border: 1px solid black;*/
+}
+.origine_pays
+{
+    display: inline-block;/**/
+    margin: 0px 0px 0px 0px;
+}
+.nbre_com_pays
+{
+    display: inline-block;/**/
+    margin: 0px 0px 0px 10px;
+    font-size: 1em;
+    color: black;
+}
+.zone_image_et_presenta_pays
+{
+    min-width: 800px;
+    height: 265px;
+    /*text-align: center;*/
+    position: relative;
+    margin: 10px auto 0px;
+    border: 1px solid black;
+}
+.img_recet_pays
+{
+    width: 350px;
+    height: 263px;/**/
+    display: inline-block;
+    margin: 0px 10px 0px 0px;
+    border: 1px solid black;
+    z-index: 1;
+}
+.presenta_et_bout_pays
+{
+    width: 436px;/**/
+    height: 263px;/**/
+    display: inline-block;
+    position: absolute;
+    bottom: 0px;
+    margin: 0px auto 0px;
+    padding: 0px 0px 0px 0px;
+    border: 1px solid black;
+}
+.text_presentation_pays
+{
+    display: inline-block;
+    margin: 0px auto 0px;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid black;/**/
+}
+.zone_bout_det_pays
+{
+    position: absolute;/**/
+    bottom: 8px;
+    right: 8px;
+    margin: 10px 0px 0px 0px;
+    /*border: 1px solid black;*/
+}
+.bouton_detail_pays
+{
+    height: 30px;
+    /*position: absolute;
+    bottom: 10px;
+    right: 10px;*/
+    margin: 0px;
+    padding: 0px 8px 0px 8px;
+    border-radius: 5px;
+    background: url('../images/fond_degradebleu.png') repeat-x;
+    
+}
+.text_bouton_detail_pays
+{
+    text-align: center;
+    font-size: 0.8em;
+    color: white;
+    text-decoration: none;
+}
+#num_pages
+{
+	text-align: center;
+}

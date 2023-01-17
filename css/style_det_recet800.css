@@ -1,0 +1,179 @@
+#nbre_com
+{
+    display: inline;
+    margin: 0px;
+    font-size: 1.2em;
+    color: black;
+}
+
+#detail_recet
+{
+    min-width: 800px;
+    margin: 10px auto 10px;
+    padding: 15px 0px 15px 0px;
+    background-color: #f1f1f1;  
+    border: 1px solid black;
+    background: url('images/separateur.png') repeat-x top;
+}
+#nom_et_origine_det
+{
+    min-width: 800px;
+    /*height: 40px;*/
+    margin: 0px auto 10px;
+    padding: 0px 0px 0px 0px;
+    border: 1px solid black;/**/
+}
+.elem_nom_recet_det
+{
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    /*border: 1px solid black;*/
+}
+#origine_det
+{
+    display: inline-block;
+    margin: 3px 0px 0px 5px;
+    /*border: 1px solid black;*/
+}
+#zone_image_presenta
+{
+    position: relative;
+    /*text-align: center;*/
+    min-width: 800px;
+    height: 264px;
+    margin: 0px auto 10px;
+    border: 1px solid black;
+}
+#img_recet_det
+{
+    display: inline-block;
+    text-align: left;
+    /*width: 350px;
+    height: 263px;*/
+    margin: 0px 10px 0px 0px;
+    padding:  0px 0px 0px 0px;
+    border: 1px solid black; 
+}
+#presenta_det
+{
+    width: all;/**/
+    height: 263px;/**/
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    margin: 0px auto 0px;
+    padding: 0px 0px 0px 0px;
+    border: 1px solid black; 
+}
+#info_recet
+{
+    min-width: 800px;
+    height: 32px;
+    margin: 0px auto 0px;
+    text-align: center;
+    border: 1px solid black;   
+}
+.info_pr
+{    
+    display: inline-block;/**/
+    min-width: 200px;
+    height: 20px;
+    margin: 5px 10px 5px;
+    border: 1px solid black;/**/
+}
+.info_diff
+{   
+    display: inline-block;
+    min-width: 200px;
+    margin: 0px 10px 0px;
+    border: 1px solid black;/**/
+}
+.info_prep
+{   
+    display: inline-block;
+    min-width: 200px;
+    margin: 0px 10px 0px;
+    border: 1px solid black;/**/
+}
+.info_cuis
+{
+    display: inline-block;
+    min-width: 200px;
+    margin: 0px 10px 0px;
+    border: 1px solid black;/**/
+}
+
+#zone_detail
+{
+    position: relative;
+    /*text-align: center;*/
+    min-width: 800px;
+    /*height: 264px;*/
+    margin: 0px auto 10px;
+    padding:  0px 0px 0px 0px;
+    border: 1px solid black;
+}
+#zone_ingre_epic
+{
+    display: inline-block;
+    text-align: left;
+    width: 250px;/*
+    height: 263px;*/
+    margin: 0px 10px 0px 0px;
+    padding:  0px 0px 0px 0px;
+    border: 1px solid black; 
+}
+.ingr
+{
+    margin: 0px 0px 10px 0px;
+    padding:  0px 0px 0px 0px;
+}
+.epic
+{
+    margin: 0px 0px 10px 0px;
+    padding:  0px 0px 0px 0px;
+}
+#zone_prep_cuis
+{
+    width: auto;/**/
+    /*height: 263px;*/
+    display: inline-block;
+    margin: 0px auto 0px;
+    padding: 0px 0px 0px 0px;
+    border: 1px solid black; 
+}
+.prep
+{
+    margin: 0px 0px 10px 0px;
+    padding:  0px 0px 0px 0px;
+}
+.cuis
+{
+    margin: 0px 0px 10px 0px;
+    padding:  0px 0px 0px 0px;
+}
+.zone_sug
+{
+    min-width: 800px;
+    border: 1px solid black;
+}
+#vos_avis
+{
+    min-width: 800px;
+    margin: 10px auto 10px;
+    padding: 15px 0px 15px 0px;
+    background-color: #f1f1f1;  
+    border: 1px solid black;
+    background: url('images/separateur.png') repeat-x top; 
+}
+#donnez_votre_avis
+{
+    min-width: 800px;
+    margin: 10px auto 10px;
+    padding: 15px 0px 15px 0px;
+    background-color: #f1f1f1;  
+    border: 1px solid black;
+    background: url('images/separateur.png') repeat-x top; 
+}
+
+

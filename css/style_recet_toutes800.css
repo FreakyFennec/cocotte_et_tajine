@@ -1,0 +1,111 @@
+/* Toutes les recettes */
+.titre_principal_ttes_recet
+{
+    min-width: 800px;
+    margin: 0px auto 0px;
+    border: 1px solid black;
+}
+.zone_tte_recet
+{
+    min-width: 800px;/**/
+    margin: 20px auto 10px;
+    padding:  10px 10px  10px  10px;
+    border: 1px solid black;
+}
+.nom_et_origine
+{
+    margin: 0px auto 0px;
+    border: 1px solid black;
+}
+.origine
+{
+    display: inline;/**/
+    margin: 0px 0px 0px 0px;
+}
+.nbre_com_ttes_recet
+{
+    display: inline;/**/
+    margin: 0px 0px 0px 10px;
+    font-size: 1em;
+    color: black;
+}
+.img_et_pres
+{
+    min-width: 800px;
+    height: 265px;
+    /*text-align: center;*/
+    position: relative;
+    margin: 10px auto 0px;
+    border: 1px solid black;
+}
+
+.img_tte_recet
+{
+    width: 350px;
+    height: 263px;/**/
+    display: inline-block;
+    margin: 0px 10px 0px 0px;
+    border: 1px solid black;
+    z-index: 1;
+}
+
+.present_et_bout
+{
+    width: 436px;/**/
+    height: 263px;/**/
+    display: inline-block;
+    position: absolute;
+    bottom: 0px;
+    margin: 0px auto 0px;
+    padding: 0px 0px 0px 0px;
+    border: 1px solid black;
+}
+.present_ttes_recet
+{
+    display: inline-block;
+    margin: 0px auto 0px;
+    padding: 10px 10px 10px 10px;
+}
+.zone_bout_det_ttes_recet
+{
+    position: absolute;/**/
+    bottom: 8px;
+    right: 8px;
+    margin: 10px 0px 0px 0px;
+    /*border: 1px solid black;*/
+}
+
+.bouton_detail_ttes_recet
+{
+    
+    height: 30px;
+   /* position: absolute;
+    bottom: 20px;
+    right: 20px;*/
+    margin: 0px 0px 0px 0px;
+    padding: 0px 8px 0px 8px;
+    text-decoration: none;
+    border-radius: 5px;
+    background: url('../images/fond_degradebleu.png') repeat-x;
+}
+.text_bouton_detail_ttes_recet
+{
+    text-align: center;
+    font-size: 1em;
+    color: white;
+    text-decoration: none;
+}
+
+.ttes_les_recet
+{
+	
+    
+}
+#num_pages
+{
+	text-align: center;
+}
+.page_ttes_recet
+{
+    margin: 0px auto 0px;
+}

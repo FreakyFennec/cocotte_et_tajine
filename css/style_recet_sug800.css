@@ -1,0 +1,66 @@
+/* Suggestion*/
+#titre_suggestion
+{
+    margin: 0px auto 0px;
+    /*border: 1px solid black;*/
+}
+#section_suggestion
+{   
+    min-width: 820px;
+    position: relative;
+    text-align: center;
+    margin: 0px auto 10px;
+    padding: 20px 0px 10px 0px;
+    background: url('../images/separateur.png') repeat-x top;
+    border: 1px solid #181818;/**/
+}
+
+.zone_recet_sug
+{
+    display: inline-block;/**/
+    width: 270px;
+    height: 245px;
+    position: relative;
+    margin: 0px 5px 0px 5px;
+    padding: 10px 10px 10px 10px; 
+    border: 1px solid black;
+}
+.zone_nom_recet_sug
+{
+    width: 270px;
+    height: 35px;
+    /*border: 1px solid #181818;*/
+}
+h4.elem_nom_recet_sug
+{
+    font-size: 0.8em;
+    text-align: left;
+    margin: 0px 0px  0px 0px;
+    padding: 0px 0px  0px 0px;
+    /*border: 1px solid black;*/
+}
+.img_recet_sug
+{
+    margin: 8px 0px  0px 0px;
+}
+.bouton_detail_sug
+{
+    
+    height: 30px;
+    line-height: 26px;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 5px;
+    background: url('../images/fond_degradebleu.png') repeat-x;
+    margin: 0px;
+    padding: 0px 8px 0px 8px;
+}
+.text_bout_det_sug
+{
+    
+    text-align: center;
+    font-size: 0.8em;
+    color: white;
+    text-decoration: none;
+}
